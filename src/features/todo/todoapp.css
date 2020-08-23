@@ -1,0 +1,17 @@
+.TodoApp {
+    background: darkolivegreen;
+}
+
+.TodoList {
+    display: inline;
+}
+
+.TodoItem {
+    color: ghostwhite;
+}
+.line-through {
+    text-decoration: line-through;
+}
+.line-none {
+    text-decoration: none;
+}
